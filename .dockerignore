@@ -1,0 +1,11 @@
+.git
+.gitignore
+README.md
+Dockerfile
+.dockerignore
+.build
+.swiftpm
+*.xcodeproj
+*.xcworkspace
+.env*
+test.sh

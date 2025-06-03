@@ -1,6 +1,5 @@
 # Swift Package Manager
 .build/
-Package.resolved
 *.xcodeproj
 *.xcworkspace
 
