@@ -16,7 +16,7 @@ struct HelloWorldApp {
 
             // Define the Hello World route
             app.get { req in
-                "Hello, World from Swift Vapor!"
+                "Hello, World from Swift Vapor! Expedited."
             }
 
             // Optional health check endpoint for monitoring
